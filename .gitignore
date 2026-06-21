@@ -1,0 +1,32 @@
+# Secrets / local config
+config.json
+.env
+.env.*
+!.env.example
+
+# Local data
+data/
+overrides/
+*.ics
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build artifacts
+build/
+dist/
+
+# Editor / IDE
+.vscode/
+.idea/
+.claude/
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
