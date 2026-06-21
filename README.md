@@ -2,6 +2,8 @@
 
 데스크톱 일정 알림 / Notion 동기화 도구.
 
+> **새 PC 로 옮기는 경우 → [`SETUP.md`](SETUP.md) 인수인계 가이드 참고.**
+
 ## 설정
 
 1. `config.example.json` 을 `config.json` 으로 복사 후 본인 환경에 맞게 수정.
